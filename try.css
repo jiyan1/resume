@@ -1,0 +1,76 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #68A0B9;
+	background-size: cover;
+}
+.box{
+	width: 80%;
+	margin: auto;
+	border: 10px;
+	border-style: groove;
+	border-color: #405E6C;
+	border-radius: 20px;
+	background: #283747;
+	padding: 50px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color: ghostwhite;
+	font-family: cursive;
+}
+button{
+	width: 100px;
+	padding: 5px;
+	border-radius: 10px;
+	text-align: center;
+	margin: 10px;
+	font-weight: bold;
+	border: 2px solid #D6DEF0;
+	background: #788CBA;
+	color: whitesmoke;
+}
+.line{
+	border: 3px solid gray;
+  	border-radius: 5px;
+}
+.table{
+	width: 80%;
+	margin: auto;
+	font-family: 'Poppins', sans-serif;
+}
+h2{
+	font-family: 'Lucida Console',Monospace;
+}
+.text{
+	margin-left: 35px;
+}
+.email{
+	margin-left: 70px;
+}
+input{
+	color: black;
+	width: 200px;
+	border-radius: 10px;
+	padding: 10px;
+}
+.textarea{
+	width: 50%;
+	padding: 20px;
+	border-radius: 10px;
+}
+form{
+	text-align: center;
+}
+.subset{
+	border-radius: 10px;
+	padding: 5px;
+	width: 100px;
+}
+.table1{
+	width: 80%;
+	margin: auto;
+}
+.button1{
+	text-align: right;
+}
